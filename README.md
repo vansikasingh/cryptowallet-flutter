@@ -37,7 +37,7 @@ lib
           │──add_view.dart
           |──authentication.dart
           │──home_view.dart
-
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
