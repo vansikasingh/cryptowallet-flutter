@@ -15,7 +15,7 @@ This app is a cryptocurrency wallet app. The user will be able to keep track of 
 
 ## Android Screenshots 
 
-  HomePage           |   Add money page | Crpto wallet display Page 
+  Home Page           |   Add money page | Crpto wallet display Page 
 :-------------------------:|:-------------------------: |:-------------------------:
 ![](https://user-images.githubusercontent.com/71205815/130982252-a18af86c-d49a-44b6-9e52-5e59adafcbad.jpeg)|![](https://user-images.githubusercontent.com/71205815/130982257-75b6f3b4-9a14-4a7e-b7e5-0c5dcd35bd5c.jpeg) |![](https://user-images.githubusercontent.com/71205815/130982852-3e7bf32d-47d8-430d-bdea-26d6a8fb9dec.jpeg) 
 
